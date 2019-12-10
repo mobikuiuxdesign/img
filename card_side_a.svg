@@ -1,6 +1,6 @@
 <svg width="856" height="536" viewBox="0 0 856 536" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="card_side_a">
-<rect id="bg" width="856" height="536" rx="32" fill="black"/>
+<rect id="bg" x="2" y="2" width="852" height="532" rx="30" fill="black" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
 <g id="Group 179">
 <path id="Line 2" d="M736 268H856" stroke="white" stroke-width="4"/>
 <g id="HACKER">
